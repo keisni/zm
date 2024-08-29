@@ -28,7 +28,7 @@
         <mxCell id="9JtKDe7apVkJXHzbWkdU-5" value="value=min(value,scaleMax)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="300" y="395" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9JtKDe7apVkJXHzbWkdU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9JtKDe7apVkJXHzbWkdU-13" target="9JtKDe7apVkJXHzbWkdU-15">
+        <mxCell id="9JtKDe7apVkJXHzbWkdU-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9JtKDe7apVkJXHzbWkdU-13" target="9JtKDe7apVkJXHzbWkdU-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9JtKDe7apVkJXHzbWkdU-13" value="根据value分别计算request和limit" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -43,7 +43,7 @@
         <mxCell id="9JtKDe7apVkJXHzbWkdU-16" value="limit=value*limitRatio/100" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="460" y="620" width="220" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9JtKDe7apVkJXHzbWkdU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9JtKDe7apVkJXHzbWkdU-13">
+        <mxCell id="9JtKDe7apVkJXHzbWkdU-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="9JtKDe7apVkJXHzbWkdU-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770" y="547" as="sourcePoint" />
             <mxPoint x="580" y="622" as="targetPoint" />
